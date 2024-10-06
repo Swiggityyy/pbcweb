@@ -5,7 +5,18 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>waiting for Vy to tell me what to do next</p>
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          This is a placeholder template Vy, let me know when i can start working on it
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
       </header>
     </div>
   );
